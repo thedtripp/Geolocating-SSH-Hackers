@@ -1,0 +1,6 @@
+module.exports={
+	
+	apikey: <YOUR API KEY HERE>,
+	influxHost: "localhost",
+	influxDatabase: "geossh"
+};
